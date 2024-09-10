@@ -1,1 +1,5 @@
-# introduction_to_debugging_shortcourse
+# An Introduction to Debugging Techniques (an RC Short Course)
+Debugging refers to the act of finding and fixing errors within a project. In software programming, this is a vital, but often frustrating, part of the software development process. To help improve your debugging experience this workshop will cover general strategies and techniques for finding errors. While programming examples and exercises will be provided in Python, these techniques are easily transferred to other programming languages and domains.
+In order to follow along with the hands-on component of this workshop, you will need to bring a personal laptop computer. You will not need to have any software installed locally on your device besides a web browser.
+We will be available for [CRDDS Office Hours](https://calendar.colorado.edu/event/interdisciplinary_data_consulting_hours_tuesdays?utm_campaign=widget&utm_medium=widget&utm_source=University+of+Colorado+Boulder) immediately after this training for any follow-up questions.
+* What is an RC Short Course?: An RC Short Course is a training that provides an in-depth understanding of a concept, system, or tool. You can expect to leave a "Short Course" with a solid grasp of the topic.
